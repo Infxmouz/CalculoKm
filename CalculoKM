@@ -1,0 +1,9 @@
+run:
+Digite a distancia percorrida (em km)
+:
+50
+Digite a quantidade de combustivel consumido (em litros): 
+
+20
+Consumo medio do veiculo:2Km/L
+BUILD SUCCESSFUL (total time: 2 seconds)
